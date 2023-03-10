@@ -21,6 +21,7 @@ Our report looks like this:
 3. Select field from a Finding 1 & delete entire contents
 4. Paste into this field using ctrl & v
 5. Random text taken from somewhere else
+
 before copy: 
 ![image](Issue1-before copy.png)
 delete text first
