@@ -23,11 +23,11 @@ Our report looks like this:
 5. Random text taken from somewhere else
 
 before copy: 
-![image](Issue1-before copy.png)
+![image](Issue1-before%20copy.png)
 delete text first
-![image](Issue1- Delte first.png)
+![image](Issue1-%20Delte%20first.png)
 paste text usign ctrl&v, then random text being pasted
-![image](Issue 1-Paste text.png)
+![image](Issue%201-Paste%20text.png)
 
 ## Issue when changing from Merge Formatting to Keep Source Formatting
 ### Reproduce Steps
