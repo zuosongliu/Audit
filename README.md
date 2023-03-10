@@ -24,8 +24,10 @@ Our report looks like this:
 
 before copy: 
 ![image](Issue1-before%20copy.png)
+
 delete text first
 ![image](Issue1-%20Delte%20first.png)
+
 paste text usign ctrl&v, then random text being pasted
 ![image](Issue%201-Paste%20text.png)
 
@@ -36,3 +38,5 @@ paste text usign ctrl&v, then random text being pasted
 3. If you paste into field with no text already entered using ctrl &v, then change to Keep Source Formatting using change paste option popup, result is that nothing will paste & field remains blank
 4. If you are pasting into a field which has text in it already, first delete the text, paste using ctrl & v, then change to KSF, and result is that field either disappears or jumps to another part of the Finding. Usually it just disappears
 5. Clicking undo does not fix anything except remove the field in cases where it jumped instead of immediately disappearing
+
+Please ref the file "Demo Copy.docx" 
